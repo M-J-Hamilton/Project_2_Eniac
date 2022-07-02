@@ -1,0 +1,46 @@
+### Analysis on impact of Product Discounts 
+This repository contains the second assignment project the of Data Science class from the WBS Coding School.
+
+## Task (Scenario)
+The Company(Eniac) - online marketplace specialising in Apple compatible accessories. The Marketing team believe discounting would help sales,
+while the Board feel it may impact the company's standing in the Quality Sector marketplace.
+Requirement to analyse the provided data to address the main question & explore answers for the subset of questions
+The main question being asked by the Company
+1.	Will/does discounting help to boost company sales?
+#Exploratory questions
+ ● How should products be classified into different categories in order to simplify reports
+   and analysis?
+ ● What is the distribution of product prices across different categories?
+   ○ How many cheap/expensive products do we have?
+   ○ How much sales/revenue do cheap/expensive products generate?
+   ○ How big are the discounts by category?
+ ● How many products are being discounted?
+ ● How big are the offered discounts as a percentage of the product prices?
+ ● How does seasonality and special dates (Christmas, Black Friday) affect sales?
+   ○ In which months is Eniac releasing more products?
+   ○ Are sales for a product spiking the month it gets released?
+ ● How could data collection be improved?
+
+## Deliverable
+The project had a single deliverable: a presentation to answer the main question.
+The main purpose of the presentation is to recommend whether or not the company should offer discounts on products. 
+The presentation should show how the products were categorised and support the decision put forward plus any recommendations.
+
+## Data
+Eniac provided a sales data on four csv files. However the data set was not clean and steps were required to clean the four files prior to use. 
+
+### Work undertaken
+	The data were imported into Colab and cleaned tp pproduce four clean dataframes
+	Various questions were asked of the data through pandas on Colab.
+	Most of the queries were supported through the use of charts, pie, line, histogram and bar types were all utilised.
+	Graphics were copied to the presentation
+	Research was undertaken to bring a more personable angle to the presentation.
+
+### Presentation
+Working in a group of four the presentation was assembled in google shared workspace, and images sourced to support the story.
+Narrative and charts were added before review and final amendments. 
+Each member presented a section of the presentation for the final task.
+
+
+## References
+None
